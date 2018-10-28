@@ -1,0 +1,10 @@
+https://stackoverflow.com/questions/27086658/retrieve-items-price-history-on-steam-market
+
+https://steamcommunity.com/market/pricehistory/?country=US&currency=3&appid=730&market_hash_name=Sticker%20%7C%20Ninjas%20in%20Pyjamas%20%28Holo%29%20%7C%20Katowice%202014
+
+https://steamcommunity.com/market/listings/730/Sticker%20%7C%20Ninjas%20in%20Pyjamas%20%28Holo%29%20%7C%20Katowice%202014
+
+https://www.google.com/search?q=steam+price+history+api&oq=steam+price+history+api&aqs=chrome..69i57j0j69i64l3.4258j0j4&sourceid=chrome&ie=UTF-8
+
+https://tyrrrz.me/Blog/Parsing-Steam-Market
+

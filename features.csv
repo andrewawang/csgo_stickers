@@ -1,9 +1,9 @@
 tournament,team,placing,country,value
 Atlanta 2017,Astralis,1,Denmark,1.69
 Atlanta 2017,Virtus.Pro,2,Poland,0.728
-Atlanta 2017,Fnatic,4,Sweden,1.1520000000000001
+Atlanta 2017,Fnatic,4,Sweden,1.152
 Atlanta 2017,SK Gaming,4,Brazil,0.61
-Atlanta 2017,Natus Vincere,8,CIS,1.4969999999999999
+Atlanta 2017,Natus Vincere,8,CIS,1.497
 Atlanta 2017,Gambit,8,CIS,0.36
 Atlanta 2017,North,8,Denmark,0.413
 Atlanta 2017,FaZe Clan,8,International,2.427
@@ -14,9 +14,9 @@ Atlanta 2017,OpTic Gaming,14,USA,0.8
 Atlanta 2017,G2 Esports,14,France,1.504
 Atlanta 2017,mousesports,14,International,1.01
 Atlanta 2017,Flipsid3 Tactics,16,CIS,0.851
-Atlanta 2017,HellRaisers,16,CIS,0.8440000000000001
+Atlanta 2017,HellRaisers,16,CIS,0.844
 Boston 2018,Cloud9,1,USA,0.52
-Boston 2018,FaZe Clan,2,International,0.5720000000000001
+Boston 2018,FaZe Clan,2,International,0.572
 Boston 2018,Natus Vincere,4,CIS,0.61
 Boston 2018,SK Gaming,4,Brazil,0.284
 Boston 2018,mousesports,8,International,0.32
@@ -25,26 +25,26 @@ Boston 2018,G2 Esports,8,France,0.319
 Boston 2018,Fnatic,8,Sweden,0.47
 Boston 2018,Space Soldiers,9,Turkey,0.564
 Boston 2018,Gambit,9,CIS,0.249
-Boston 2018,Vega Squadron,9,CIS,0.19699999999999998
+Boston 2018,Vega Squadron,9,CIS,0.197
 Boston 2018,Team Liquid,12,USA,0.757
 Boston 2018,Astralis,12,Denmark,1.002
 Boston 2018,BIG,12,Germany,0.308
 Boston 2018,North,15,Denmark,0.262
-Boston 2018,Virtus.pro,15,,0.424
+Boston 2018,Virtus.pro,15,Poland,0.424
 Cluj-Napoca 2015,Team EnVyUs,1,France,0.336
-Cluj-Napoca 2015,Natus Vincere,2,CIS,0.6759999999999999
+Cluj-Napoca 2015,Natus Vincere,2,CIS,0.676
 Cluj-Napoca 2015,G2 Esports,4,France,0.326
 Cluj-Napoca 2015,Ninjas in Pyjamas,4,Sweden,0.35
-Cluj-Napoca 2015,Fnatic,8,Sweden,0.44799999999999995
-Cluj-Napoca 2015,Virtus.pro,8,,0.527
+Cluj-Napoca 2015,Fnatic,8,Sweden,0.448
+Cluj-Napoca 2015,Virtus.pro,8,Poland,0.527
 Cluj-Napoca 2015,Team SoloMid,8,Denmark,0.364
 Cluj-Napoca 2015,Luminosity Gaming,8,Brazil,0.511
-Cluj-Napoca 2015,Cloud9,12,USA,0.8690000000000001
+Cluj-Napoca 2015,Cloud9,12,USA,0.869
 Cluj-Napoca 2015,mousesports,12,International,0.469
 Cluj-Napoca 2015,Titan,12,France,1.492
 Cluj-Napoca 2015,Counter Logic Gaming,12,USA,0.446
 Cluj-Napoca 2015,Vexed Gaming,16,Poland,0.628
-Cluj-Napoca 2015,FlipSid3 Tactics,16,,0.47100000000000003
+Cluj-Napoca 2015,FlipSid3 Tactics,16,CIS,0.471
 Cluj-Napoca 2015,Team Liquid,16,USA,0.785
 Cluj-Napoca 2015,Team Dignitas,16,Denmark,1.013
 Cologne 2014,Ninjas in Pyjamas,1,Sweden,1.015
@@ -53,9 +53,9 @@ Cologne 2014,Team Dignitas,4,Denmark,2.675
 Cologne 2014,Team LDLC.com,4,France,1.369
 Cologne 2014,Natus Vincere,8,CIS,1.52
 Cologne 2014,Epsilon eSports,8,France,0.93
-Cologne 2014,Virtus.pro,8,,1.037
+Cologne 2014,Virtus.pro,8,Poland,1.037
 Cologne 2014,Cloud9,8,USA,2.885
-Cologne 2014,HellRaisers,12,CIS,0.8270000000000001
+Cologne 2014,HellRaisers,12,CIS,0.827
 Cologne 2014,Copenhagen Wolves,12,Denmark,0.62
 Cologne 2014,Team iBUYPOWER,12,USA,9.326
 Cologne 2014,Titan,12,France,3.175
@@ -63,98 +63,98 @@ Cologne 2014,MTS GameGod Wolf,16,India,0.725
 Cologne 2014,London Conspiracy,16,Norway,2.668
 Cologne 2014,dAT Team,16,CIS,0.63
 Cologne 2014,Vox Eminor,16,Australia,1.056
-Cologne 2015,Fnatic,1,Sweden,0.35600000000000004
+Cologne 2015,Fnatic,1,Sweden,0.356
 Cologne 2015,Team EnVyUs,2,France,0.365
 Cologne 2015,Team SoloMid,4,Denmark,0.353
-Cologne 2015,Virtus.pro,4,,0.43
+Cologne 2015,Virtus.pro,4,Poland,0.43
 Cologne 2015,Natus Vincere,8,CIS,0.61
-Cologne 2015,Team Kinguin,8,International,0.35100000000000003
+Cologne 2015,Team Kinguin,8,International,0.351
 Cologne 2015,Ninjas in Pyjamas,8,Sweden,0.355
 Cologne 2015,Luminosity Gaming,8,Brazil,0.535
-Cologne 2015,Counter Logic Gaming,12,USA,0.43200000000000005
+Cologne 2015,Counter Logic Gaming,12,USA,0.432
 Cologne 2015,Cloud9,12,USA,0.52
 Cologne 2015,Renegades,12,Australia,0.3
-Cologne 2015,FlipSid3 Tactics,12,,0.467
-Cologne 2015,Team eBettle,16,Poland,0.37799999999999995
+Cologne 2015,FlipSid3 Tactics,12,CIS,0.467
+Cologne 2015,Team eBettle,16,Poland,0.378
 Cologne 2015,Team Immunity,16,Australia,0.561
 Cologne 2015,Titan,16,France,1.4
 Cologne 2015,mousesports,16,International,0.353
 Cologne 2016,SK Gaming,1,Brazil,0.635
 Cologne 2016,Team Liquid,2,USA,0.736
-Cologne 2016,Virtus.pro,4,,0.7170000000000001
+Cologne 2016,Virtus.pro,4,Poland,0.717
 Cologne 2016,Fnatic,4,Sweden,0.753
-Cologne 2016,Astralis,8,Denmark,2.5180000000000002
-Cologne 2016,FlipSid3 Tactics,8,,0.741
+Cologne 2016,Astralis,8,Denmark,2.518
+Cologne 2016,FlipSid3 Tactics,8,CIS,0.741
 Cologne 2016,Natus Vincere,8,CIS,1.187
-Cologne 2016,Gambit,8,CIS,0.7979999999999999
+Cologne 2016,Gambit,8,CIS,0.798
 Cologne 2016,Team Dignitas,12,Denmark,1.581
 Cologne 2016,Ninjas in Pyjamas,12,Sweden,0.97
 Cologne 2016,mousesports,12,International,0.981
 Cologne 2016,FaZe Clan,12,International,1.161
-Cologne 2016,Counter Logic Gaming,16,USA,0.7809999999999999
-Cologne 2016,OpTic Gaming,16,USA,1.2429999999999999
+Cologne 2016,Counter Logic Gaming,16,USA,0.781
+Cologne 2016,OpTic Gaming,16,USA,1.243
 Cologne 2016,Team EnVyUs,16,France,0.759
 Cologne 2016,G2 Esports,16,France,1.05
 Katowice 2015,Fnatic,1,Sweden,1.275
 Katowice 2015,Ninjas in Pyjamas,2,Sweden,1.14
-Katowice 2015,Virtus.pro,4,,1.4709999999999999
+Katowice 2015,Virtus.pro,4,Poland,1.471
 Katowice 2015,Team EnVyUs,4,France,1.129
 Katowice 2015,PENTA Sports,8,International,1.136
 Katowice 2015,Keyd Stars,8,Brazil,2.504
 Katowice 2015,Natus Vincere,8,CIS,3.603
-Katowice 2015,Team SoloMid,8,Denmark,1.2919999999999998
+Katowice 2015,Team SoloMid,8,Denmark,1.292
 Katowice 2015,Vox Eminor,12,Australia,4.082
 Katowice 2015,LGB eSports,12,Norway,4.993
 Katowice 2015,Counter Logic Gaming,12,USA,1.228
 Katowice 2015,Cloud9,12,USA,4.565
-Katowice 2015,FlipSid3 Tactics,16,,1.266
+Katowice 2015,FlipSid3 Tactics,16,CIS,1.266
 Katowice 2015,Titan,16,France,3.82
 Katowice 2015,HellRaisers,16,CIS,2.948
 Katowice 2015,3DMAX,16,Finland,4.631
 Krakow 2017,Gambit,1,CIS,0.175
 Krakow 2017,Immortals,2,Brazil,0.231
 Krakow 2017,Astralis,4,Denmark,0.284
-Krakow 2017,Virtus.pro,4,,0.315
+Krakow 2017,Virtus.pro,4,Poland,0.315
 Krakow 2017,Fnatic,8,Sweden,0.312
 Krakow 2017,SK Gaming,8,Brazil,0.285
 Krakow 2017,BIG,8,Germany,0.18
 Krakow 2017,North,8,Denmark,0.193
 Krakow 2017,Cloud9,9,USA,0.28
-Krakow 2017,FlipSid3 Tactics,9,,0.319
-Krakow 2017,G2 Esports,9,France,0.22399999999999998
+Krakow 2017,FlipSid3 Tactics,9,CIS,0.319
+Krakow 2017,G2 Esports,9,France,0.224
 Krakow 2017,Natus Vincere,12,CIS,0.513
-Krakow 2017,mousesports,12,International,0.23600000000000002
+Krakow 2017,mousesports,12,International,0.236
 Krakow 2017,PENTA Sports,12,International,0.193
 Krakow 2017,FaZe Clan,15,International,0.309
 Krakow 2017,Vega Squadron,15,CIS,0.183
 MLG Columbus 2016,Luminosity Gaming,1,Brazil,0.584
 MLG Columbus 2016,Natus Vincere,2,CIS,0.608
-MLG Columbus 2016,Astralis,4,Denmark,0.6940000000000001
+MLG Columbus 2016,Astralis,4,Denmark,0.694
 MLG Columbus 2016,Team Liquid,4,USA,0.562
-MLG Columbus 2016,Ninjas in Pyjamas,8,Sweden,0.45899999999999996
+MLG Columbus 2016,Ninjas in Pyjamas,8,Sweden,0.459
 MLG Columbus 2016,Fnatic,8,Sweden,0.405
-MLG Columbus 2016,Counter Logic Gaming,8,USA,0.41200000000000003
-MLG Columbus 2016,Virtus.pro,8,,0.51
-MLG Columbus 2016,mousesports,12,International,0.38799999999999996
+MLG Columbus 2016,Counter Logic Gaming,8,USA,0.412
+MLG Columbus 2016,Virtus.pro,8,Poland,0.51
+MLG Columbus 2016,mousesports,12,International,0.388
 MLG Columbus 2016,FaZe Clan,12,International,0.547
-MLG Columbus 2016,Gambit Gaming,12,,0.26
+MLG Columbus 2016,Gambit,12,CIS,0.26
 MLG Columbus 2016,G2 Esports,12,France,0.718
-MLG Columbus 2016,FlipSid3 Tactics,16,,0.45299999999999996
+MLG Columbus 2016,FlipSid3 Tactics,16,CIS,0.453
 MLG Columbus 2016,Splyce,16,USA,0.389
 MLG Columbus 2016,Team EnVyUs,16,France,0.434
 MLG Columbus 2016,Cloud9,16,USA,0.907
 DreamHack 2014,Team LDLC.com,1,France,2.093
 DreamHack 2014,Ninjas in Pyjamas,2,Sweden,1.778
-DreamHack 2014,Virtus.pro,4,,1.79
+DreamHack 2014,Virtus.pro,4,Poland,1.79
 DreamHack 2014,Natus Vincere,4,CIS,2.812
-DreamHack 2014,HellRaisers,8,CIS,2.5180000000000002
+DreamHack 2014,HellRaisers,8,CIS,2.518
 DreamHack 2014,PENTA Sports,8,International,1.875
 DreamHack 2014,Fnatic,8,Sweden,1.41
 DreamHack 2014,Team Dignitas,8,Denmark,3.002
 DreamHack 2014,Cloud9,12,USA,6.45
 DreamHack 2014,Team iBUYPOWER,12,USA,19.98
 DreamHack 2014,ESC Gaming,12,Poland,3.114
-DreamHack 2014,FlipSid3 Tactics,12,,1.7409999999999999
+DreamHack 2014,FlipSid3 Tactics,12,CIS,1.741
 DreamHack 2014,Bravado Gaming,16,South Africa,3.285
 DreamHack 2014,Copenhagen Wolves,16,Denmark,3.63
 DreamHack 2014,Planetkey Dynamics,16,Germany,4.33
